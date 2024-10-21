@@ -1,6 +1,6 @@
 # Hello, I'm Nesar 👋
 
-###A passion for AI and embracing cutting-edge technology.
+### A passion for AI and embracing cutting-edge technology.
 
 I'm a passionate Full-Stack Developer, always eager to learn and grow. I love crafting clean, efficient code and creating intuitive, beautiful UIs.
 The process of mastering new technologies is something I truly enjoy
@@ -43,3 +43,5 @@ Connect with me:
 | GeniJob | Express, React, MongoDB | [Github](https://github.com/nesar2020/genijob) |
 
 </div>
+
+

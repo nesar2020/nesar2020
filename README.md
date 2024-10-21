@@ -5,11 +5,11 @@
 I'm a passionate Full-Stack Developer, always eager to learn and grow. I love crafting clean, efficient code and creating intuitive, beautiful UIs.
 The process of mastering new technologies is something I truly enjoy
 
-Reach out to me at: nesar.nori01@gmail.com
+📩 Reach out to me at: nesar.nori01@gmail.com
 
-I'm continuously sharpening my skills and exploring new technologies to stay ahead in the ever-evolving tech industry.
+⚡ I'm continuously sharpening my skills and exploring new technologies to stay ahead in the ever-evolving tech industry.
 
-Feel free to check out my projects, where experience meets innovation, at https://github.com/nesar2020.
+👀 Feel free to check out my projects, where experience meets innovation, at https://github.com/nesar2020.
 
 Connect with me:
 
